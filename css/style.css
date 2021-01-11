@@ -20,7 +20,8 @@ body{
 	-webkit-text-size-adjust:100%;
 	overflow-x: hidden;
 	color: #000;
-	background: #fff;
+	/*background: #fff;*/
+	background-image: url("../images/background_cat.png")
 }
 
 a{
@@ -145,7 +146,7 @@ section h2{
 }
 
 
-/* SEC03 SERVICE MESSAGE STORY
+/* SEC03 PROJECT MESSAGE STORY
 ------------------------------------------------------------*/
 .col3 li{
 	margin-bottom: 50px;
@@ -298,7 +299,7 @@ section h2{
 		vertical-align: middle;
 	}
 	
-	/* SEC03 SERVICE MESSAGE STORY
+	/* SEC03 PROJECT MESSAGE STORY
 	-----------------*/
 	.col3{
 		text-align: center;
